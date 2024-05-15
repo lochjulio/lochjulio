@@ -1,10 +1,15 @@
 <h1 align="center">Hello world! I'm Júlio Cesar.</h1>
 
 <p align="center"><strong>Sou um desenvolvedor na área de tecnologia. Com paixão pela inovação e resolução de problemas, prospero no cenário dinâmico do desenvolvimento de software.</strong></p>
+
+
+<div align="center">
+  
+  ![lochjulio](https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png)
+  
+</div>>
+
 <p align="center"><strong>Atualmente estudando Java.</strong></p>
-
-
-![lochjulio](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTU3MzExOTIsIm5iZiI6MTcxNTczMDg5MiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTE0VDIzNTQ1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiMjA0OGM0NTkyYjQ1ODI5YTc4ZmY3MWQ0OWU3NzBlYjIwNTg0MGJhMWYxOTYxMjdlOWQ3MjczNTYyMThmNWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vvSOzmpB6ebBEEjn7SwEdljOsSu-t2wWfGBzgAZqUdA)
 
 ##
 
